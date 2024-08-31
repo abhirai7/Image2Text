@@ -1,4 +1,4 @@
-# Image Text Extractor
+# Image2Text
 
 This is a Python script that extracts text from an image using OpenCV and Pytesseract.
 
